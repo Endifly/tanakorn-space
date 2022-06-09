@@ -114,3 +114,9 @@
     flex-direction: column;
   }
 }
+
+.sky-gradient-18 { background: linear-gradient(to bottom, #FFFFFF 0%,#576e71 30%,#e1c45e 70%,#b26339 100%); }
+
+.sky {
+  background-color: #E8F9FD;
+}

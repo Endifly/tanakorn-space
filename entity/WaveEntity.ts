@@ -19,6 +19,7 @@ class WaveEntity {
   ): void => {
     context.beginPath();
     context.moveTo(0, height);
+
     if (this.waveLength.length < 3) {
       return;
     }
